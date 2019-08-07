@@ -10,3 +10,6 @@ The Device handler code can be edited to change the posision of the buttons to m
 In my setup I'm using the "Home Control Home Control Stikkontakt dobbel u/jord HCOUTLETUE1"
 
 ![The socket](https://picture.elektroimportoren.no/pictures/4512602.jpg)
+
+Another and maybe better alternativ:
+https://github.com/nilskaa/Smartthings/blob/master/devicetypes/Homecontrol-power-outlet.src?fbclid=IwAR3LtQ_NENnkHO6IW4hmFF8Aq26MLzfTQXUsVuX_YzsBLJnSeSzlAPdQ_uI
